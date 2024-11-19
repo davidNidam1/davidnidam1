@@ -1,9 +1,9 @@
 ## Welcome to My GitHub
 
-I'm David Nidam, a **Computer Science and Bioinformatics graduate** from Bar-Ilan University. My multidisciplinary background combines **abstract computational thinking** with a **methodical, systems-based approach**, enabling me to solve challenges creatively and efficiently.
+I'm David Nidam, a **Computer Science and Bioinformatics graduate** from Bar-Ilan University. My multidisciplinary background equips me with a blend of **abstract problem-solving** and **practical implementation skills**, enabling me to approach challenges creatively and deliver impactful solutions.
 
 ### About Me
-With expertise in **software development** and experience working with **complex data systems**, I bring a unique perspective that bridges technology and structured problem-solving. My strong analytical skills and adaptability make me an asset in any fast-paced environment.
+With experience in **software development** and a proven ability to tackle **technical challenges across multiple domains**, I thrive in dynamic and collaborative environments. I am dedicated to continuous learning and committed to delivering results that make a difference.
 
 ### Skills & Technologies
 
@@ -34,7 +34,11 @@ With expertise in **software development** and experience working with **complex
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-darkblue?logo=databricks&logoColor=white)
-  
 
-### Let’s Connect  
-Feel free to reach out if you’re looking for someone with a sharp mind, a unique perspective, and a drive to deliver impactful results. Let’s create something exceptional together! 🚀
+### Let’s Connect
+If you're seeking a sharp problem-solver with a unique perspective and the ability to make meaningful contributions, feel free to reach out. Let’s create something exceptional together! 🚀
+
+---
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidnidam1&show_icons=true&theme=radical)  
+![David's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidnidam1&theme=radical)
