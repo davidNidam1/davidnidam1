@@ -1,6 +1,6 @@
 ## Welcome to My GitHub
 
-I'm David Nidam, a **Computer Science and Bioinformatics graduate** from Bar-Ilan University. My multidisciplinary background equips me with a blend of **abstract problem-solving** and **practical implementation skills**, enabling me to approach challenges creatively and deliver impactful solutions.
+I'm David Nidam, a **Computer Science and Biology - Bioinformatics graduate** from Bar-Ilan University. My multidisciplinary background equips me with a blend of **abstract problem-solving** and **practical implementation skills**, enabling me to approach challenges creatively and deliver impactful solutions.
 
 ### About Me
 With experience in **software development** and a proven ability to tackle **technical challenges across multiple domains**, I thrive in dynamic and collaborative environments. I am dedicated to continuous learning and committed to delivering results that make a difference.
@@ -11,6 +11,7 @@ With experience in **software development** and a proven ability to tackle **tec
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-lightgrey?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-green?logo=powershell&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
@@ -33,12 +34,10 @@ With experience in **software development** and a proven ability to tackle **tec
 #### Development Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-darkblue?logo=databricks&logoColor=white)
+
+#### Programming Concepts & Methodologies
+![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-darkblue?logo=databricks&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-purple?logo=codeigniter&logoColor=white)
 
 ### Let’s Connect
 If you're seeking a sharp problem-solver with a unique perspective and the ability to make meaningful contributions, feel free to reach out. Let’s create something exceptional together! 🚀
-
----
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidnidam1&show_icons=true&theme=radical)  
-![David's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidnidam1&theme=radical)
